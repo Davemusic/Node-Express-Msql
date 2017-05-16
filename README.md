@@ -9,4 +9,6 @@
 <br/>
 <b>==></b> Clone it or download the zip file <br/>
 <b>==></b> Extract it and inside the folder containing package.json file run cmd and run <i> npm install </i> </br>
-<b>==></b> In cmd run <i>node app.js</i>
+<b>==></b>  Configure your sql database in sqldb.js file <br/>
+<b>==></b> In cmd run <i>node app.js</i> It must show server started <br/>
+<b>==></b> Open any browser and goto address <i> localhost:3000</i>
