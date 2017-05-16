@@ -12,4 +12,4 @@ var connection = mssql.connect(dbConfig, function (err) {
     exports.request=new mssql.Request()
 });
 
-//module.exports = connection;
+//module.exports = connection; you can do it for function export
